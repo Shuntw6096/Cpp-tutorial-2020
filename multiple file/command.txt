@@ -1,0 +1,1 @@
+g++ add.cpp functions.cpp -o add.exe
