@@ -1,0 +1,3 @@
+把code放在header file的class定義而不是放在實現功能的cpp裡有些好處．
+1. Added mostly to keep the data private
+2. Make sense to show code right with the declaration of function
